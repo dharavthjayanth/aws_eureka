@@ -1,0 +1,6 @@
+openpyxl
+openai==0.28
+pandasai
+numpy==1.23
+pandas==1.53
+flask
